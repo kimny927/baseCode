@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaseCode</string>
+    <string name="data_binding_success">Data Binding Success</string>
+</resources>
